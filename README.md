@@ -1,0 +1,1 @@
+A Two player dice game where the one who scores 100 points first will win the game , a user has to roll the dice and add his score to the final score before the 1 comes beacuse if 1 comes then the score will be zero.
